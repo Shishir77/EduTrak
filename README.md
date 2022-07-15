@@ -15,7 +15,7 @@ Yunika Upadhayaya<br/>
 Email: yunika.upadhayaya@mavs.uta.edu<br/>
 UTA ID:1001631183<br/>
 
-Shishir Sunchauri<br/>
+Shishir Bishwokarma<br/>
 Email: shishir.bishwokarma@mavs.uta.edu<br/>
 UTA ID: 1001644424<br/>
 
