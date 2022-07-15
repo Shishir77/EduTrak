@@ -46,13 +46,13 @@ The Schedule Scanner page is partially working. It allows to user to select a pd
 # Instatllation
 
 1. Copy the Git Repostitory from Github
-   [Link to our App Git Repostitory](https://github.com/annguyens/EduTrak)
+   [Link to our App Git Repostitory](https://github.com/Shishir77/EduTrak)
 
 2. Open Android Studio, and open the terminal panel at the bottom. 
    Type the following command to clone our repository.
  
    ```
-    git clone https://github.com/annguyens/EduTrak.git
+    git clone https://github.com/Shishir77/EduTrak
    ```
  
 3. Once cloned, you can now run our app. __Please run the app either on the Pixel 4 Emulator__ in Android Studio or have your own Android Smartphone connected to a computer that is running Android Studio, you will be able to view from there as well. 
