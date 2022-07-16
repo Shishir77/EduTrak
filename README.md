@@ -2,6 +2,12 @@
 ![alt text](app/src/main/res/drawable-v24/logo.png "EduTrak")<br/>
 ## Names
 
+
+Shishir Bishwokarma<br/>
+Email: shishir.bishwokarma@mavs.uta.edu<br/>
+UTA ID: 1001644424<br/>
+
+
 Nathen Paul<br/>
 Email: nathen.paul@mavs.uta.edu<br/>
 UTA ID: 1001541594<br/>
@@ -15,9 +21,7 @@ Yunika Upadhayaya<br/>
 Email: yunika.upadhayaya@mavs.uta.edu<br/>
 UTA ID:1001631183<br/>
 
-Shishir Bishwokarma<br/>
-Email: shishir.bishwokarma@mavs.uta.edu<br/>
-UTA ID: 1001644424<br/>
+
 
 ## Point of Contact For Issues
 Name: Nathen Paul<br/>
@@ -57,6 +61,8 @@ The Schedule Scanner page is partially working. It allows to user to select a pd
  
 3. Once cloned, you can now run our app. __Please run the app either on the Pixel 4 Emulator__ in Android Studio or have your own Android Smartphone connected to a computer that is running Android Studio, you will be able to view from there as well. 
 
+
+You can also look at the video demo of our project here : https://drive.google.com/file/d/1NIc3pAKFVx4yfRu81H-EL8i_DYn5r3Yz/view?usp=sharing
 
 
 
